@@ -22,10 +22,10 @@ class Solution:
             for p in piles:
                 hours += math.ceil(p / m)  
 
-            if hours > h:
-                l = m + 1 
-            else:
+            if h >= hours:
                 r = m - 1 
+            else:
+                l = m + 1 
 
         return l  
 
