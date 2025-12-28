@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0704-binary-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
 ## Two Pointers
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
