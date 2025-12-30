@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 ## Design
@@ -86,9 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
