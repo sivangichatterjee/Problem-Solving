@@ -27,14 +27,14 @@ class Solution:
             s2Count[index]+=1
             if s2Count[index]==s1Count[index]:
                 matches+=1
-            elif s1Count[index]+1==s2Count[index]:
+            elif s2Count[index] == s1Count[index] + 1:
                 matches-=1
 
             index=ord(s2[l]) - ord('a')
             s2Count[index]-=1
             if s2Count[index]==s1Count[index]:
                 matches+=1
-            elif s1Count[index]-1==s2Count[index]:
+            elif s2Count[index] == s1Count[index] - 1:
                 matches-=1
             l+=1
         return matches==26
