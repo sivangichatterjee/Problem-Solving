@@ -5,12 +5,14 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-    #complexity :time, space= O(n*k), O(1)
+    
         if len(lists)==0:
             return None
+        #complexity :time, space= O(n*k), O(1)
         # for i in range(1, len(lists)):
         #     lists[i]=self.mergeLists(lists[i-1],lists[i])
         # return lists[-1]
+        #complexity :time, space= O(n*log k), O(k)
         while len(lists)>1:
             mergedlists=[]
             for i in range(0, len(lists),2):
