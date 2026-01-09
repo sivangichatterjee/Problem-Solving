@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
