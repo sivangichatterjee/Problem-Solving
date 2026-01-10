@@ -9,10 +9,14 @@ class Solution:
             if i>n:
                 return
             
-            currset.append(i)
-            backtrack(i+1)
-            currset.pop()
-            backtrack(i+1)
+            # currset.append(i)
+            # backtrack(i+1)
+            # currset.pop()
+            # backtrack(i+1)
+            for j in range(i, n+1):
+                currset.append(j)
+                backtrack(j+1)
+                currset.pop()
 
         backtrack(1)
         return res
