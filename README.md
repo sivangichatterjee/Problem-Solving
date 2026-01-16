@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0110-balanced-binary-tree) |
@@ -261,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
