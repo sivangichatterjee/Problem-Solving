@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
@@ -267,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
