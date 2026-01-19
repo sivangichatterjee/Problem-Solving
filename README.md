@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0875-koko-eating-bananas) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0695-max-area-of-island) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0695-max-area-of-island) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
