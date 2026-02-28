@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 ## Design
 |  |
 | ------- |
