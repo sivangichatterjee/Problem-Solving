@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0210-course-schedule-ii) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
