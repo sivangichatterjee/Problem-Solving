@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0015-3sum) |
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
@@ -370,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
