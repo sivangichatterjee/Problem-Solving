@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0078-subsets) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0846-hand-of-straights) |
