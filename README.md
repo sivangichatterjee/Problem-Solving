@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
