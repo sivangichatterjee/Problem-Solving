@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
