@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0054-spiral-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0091-decode-ways) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
