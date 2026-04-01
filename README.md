@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
+| [0830-positions-of-large-groups](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0830-positions-of-large-groups) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 | [1092-shortest-common-supersequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1143-longest-common-subsequence) |
