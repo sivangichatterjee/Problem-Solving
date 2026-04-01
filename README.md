@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
