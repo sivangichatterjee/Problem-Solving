@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
+| [1399-count-largest-group](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1399-count-largest-group) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
+| [1399-count-largest-group](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1399-count-largest-group) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0767-reorganize-string) |
+| [1399-count-largest-group](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1399-count-largest-group) |
 ## Sweep Line
 |  |
 | ------- |
