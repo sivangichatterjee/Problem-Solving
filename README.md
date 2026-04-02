@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0767-reorganize-string) |
 | [0830-positions-of-large-groups](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0830-positions-of-large-groups) |
