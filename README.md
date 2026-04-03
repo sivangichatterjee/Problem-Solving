@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0202-happy-number) |
@@ -526,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
