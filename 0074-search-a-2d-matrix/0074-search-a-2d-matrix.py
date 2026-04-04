@@ -11,6 +11,9 @@ class Solution:
             else:
                 break
 
+        if top>bottom:
+            return False
+
         l,r=0,n-1
         while l<=r:
             mid=(l+r)//2
