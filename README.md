@@ -559,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
