@@ -563,4 +563,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0176-second-highest-salary) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
