@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [1399-count-largest-group](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1399-count-largest-group) |
+| [3783-mirror-distance-of-an-integer](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
