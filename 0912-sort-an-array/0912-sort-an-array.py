@@ -8,28 +8,27 @@ class Solution:
                 merge(nums, low, mid, high)
 
         def merge(nums, low, mid, high):
-            temp = []
-            left, right = low, mid + 1
-
-            while left <= mid and right <= high:
-                if nums[left] <= nums[right]:
-                    temp.append(nums[left])
-                    left += 1
+            left,right=nums[low:mid+1],nums[mid+1:high+1]
+            i,j,k=low,0,0
+            while j<len(left) and k<len(right):
+                if left[j]<=right[k]:
+                    nums[i]=left[j]
+                    j+=1
                 else:
-                    temp.append(nums[right])
-                    right += 1
+                    nums[i]=right[k]
+                    k+=1
+                i+=1
 
-            while left <= mid:
-                temp.append(nums[left])
-                left += 1
+            while j<len(left):               
+                nums[i]=left[j]
+                j+=1
+                i+=1
 
-            while right <= high:
-                temp.append(nums[right])
-                right += 1
-
-            for i in range(len(temp)):
-                nums[low + i] = temp[i]
-
+            while k<len(right):               
+                nums[i]=right[k]
+                k+=1
+                i+=1 
+           
         mergesort(nums, 0, len(nums) - 1)
         return nums
         # def quicksort(nums,low, high):
@@ -58,4 +57,24 @@ class Solution:
         # quicksort(nums, 0, len(nums) - 1)
         # return nums
 
-        
+         # temp = []
+            # left, right = low, mid + 1
+
+            # while left <= mid and right <= high:
+            #     if nums[left] <= nums[right]:
+            #         temp.append(nums[left])
+            #         left += 1
+            #     else:
+            #         temp.append(nums[right])
+            #         right += 1
+
+            # while left <= mid:
+            #     temp.append(nums[left])
+            #     left += 1
+
+            # while right <= high:
+            #     temp.append(nums[right])
+            #     right += 1
+
+            # for i in range(len(temp)):
+            #     nums[low + i] = temp[i]
