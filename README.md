@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
