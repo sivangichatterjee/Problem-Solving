@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/sivangichatterjee/Problem-Solving/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3206-alternating-groups-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3206-alternating-groups-i) |
 ## Two Pointers
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1143-longest-common-subsequence) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 ## Stack
 |  |
 | ------- |
