@@ -1,20 +1,27 @@
 class MyHashSet:
 
     def __init__(self):
-        self.set=[]
+        self.size=10000
+        self.bucket=[[] for _ in range(self.size)]
+
+    def hash(self,key):
+        return key%self.size
         
 
     def add(self, key: int) -> None:
-        if key not in self.set:
-            self.set.append(key)
+        bucket_key=self.bucket[self.hash(key)]
+        if key not in bucket_key:
+            bucket_key.append(key)
         
 
     def remove(self, key: int) -> None:
-        if key in self.set:
-            self.set.remove(key)
+        bucket_key=self.bucket[self.hash(key)]
+        if key in bucket_key:
+            bucket_key.remove(key)
         
     def contains(self, key: int) -> bool:
-        return key in self.set
+        bucket_key=self.bucket[self.hash(key)]
+        return key in bucket_key
         
 
 
