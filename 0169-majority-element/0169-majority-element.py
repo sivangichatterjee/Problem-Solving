@@ -14,16 +14,19 @@ class Solution:
         #         return k
 
         #solution2
-        count, res=0,0
-        for n in nums:
-            if count==0:
-                res=n
-            if res==n:
-                count+=1
-            else:
-                count-=1
+        # Boyer-Moore 
+        # count, res=0,0
+        # for n in nums:
+        #     if count==0:
+        #         res=n
+        #     if res==n:
+        #         count+=1
+        #     else:
+        #         count-=1
 
-        return res
+        # return res
+
+        return sorted(nums)[len(nums)//2]
 
         
         
