@@ -16,18 +16,32 @@ class Solution:
         # nums[zeros:(zeros+ones)]=[1]*ones
         # nums[(zeros+ones):len(nums)]=[2]*twos
 
-        low,mid,high=0,0,len(nums)-1
+        #part 2
+        count=[0]*3
+        for num in nums:
+            count[num]+=1
         
-        while(mid<=high):
-            if nums[mid]==0:
-                nums[mid], nums[low]=nums[low],nums[mid]
-                low+=1
-                mid+=1
-            elif nums[mid]==1: 
-                mid+=1
-            else:
-                nums[mid], nums[high]=nums[high],nums[mid]
-                high-=1
+        index=0
+        for i in range(3):
+            while count[i]:
+                nums[index]=i
+                count[i]-=1               
+                index+=1
+
+
+        #dutch national flag algorithm
+        # low,mid,high=0,0,len(nums)-1
+        
+        # while(mid<=high):
+        #     if nums[mid]==0:
+        #         nums[mid], nums[low]=nums[low],nums[mid]
+        #         low+=1
+        #         mid+=1
+        #     elif nums[mid]==1: 
+        #         mid+=1
+        #     else:
+        #         nums[mid], nums[high]=nums[high],nums[mid]
+        #         high-=1
                 
 
 
