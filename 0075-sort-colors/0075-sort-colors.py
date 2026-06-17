@@ -3,16 +3,33 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        zeros,ones,twos=0,0,0
-        for n in nums:
-            if n==0:
-                zeros+=1
-            elif n==1:
-                ones+=1
-            else:
-                twos+=1
+        # zeros,ones,twos=0,0,0
+        # for n in nums:
+        #     if n==0:
+        #         zeros+=1
+        #     elif n==1:
+        #         ones+=1
+        #     else:
+        #         twos+=1
 
-        nums[:zeros]=[0]*zeros
-        nums[zeros:(zeros+ones)]=[1]*ones
-        nums[(zeros+ones):len(nums)]=[2]*twos
+        # nums[:zeros]=[0]*zeros
+        # nums[zeros:(zeros+ones)]=[1]*ones
+        # nums[(zeros+ones):len(nums)]=[2]*twos
+
+        low,mid,high=0,0,len(nums)-1
+        
+        while(mid<=high):
+            if nums[mid]==0:
+                nums[mid], nums[low]=nums[low],nums[mid]
+                low+=1
+                mid+=1
+            elif nums[mid]==1: 
+                mid+=1
+            else:
+                nums[mid], nums[high]=nums[high],nums[mid]
+                high-=1
+                
+
+
+
         
