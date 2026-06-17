@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1929-concatenation-of-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/sivangichatterjee/Problem-Solving/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3206-alternating-groups-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3206-alternating-groups-i) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1929-concatenation-of-array) |
 ## Shortest Path
 |  |
 | ------- |
