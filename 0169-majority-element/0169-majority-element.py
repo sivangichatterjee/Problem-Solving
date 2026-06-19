@@ -14,7 +14,7 @@ class Solution:
         #         return k
 
         #solution2
-        # Boyer-Moore 
+        #Boyer-Moore 
         # count, res=0,0
         # for n in nums:
         #     if count==0:
@@ -23,10 +23,20 @@ class Solution:
         #         count+=1
         #     else:
         #         count-=1
-
         # return res
+        count,res=0,0
+        for n in nums:
+            if res==n:
+                count+=1
+            elif count==0:
+                res,count=n,1
+            else:
+                count-=1
 
-        return sorted(nums)[len(nums)//2]
+        return res
+
+        #solution 3
+        #return sorted(nums)[len(nums)//2]
 
         
         
