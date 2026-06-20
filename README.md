@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1399-count-largest-group](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1399-count-largest-group) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0846-hand-of-straights) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1399-count-largest-group](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1399-count-largest-group) |
 ## Divide and Conquer
 |  |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [3206-alternating-groups-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3206-alternating-groups-i) |
 ## Linked List
 |  |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 ## Database
 |  |
 | ------- |
