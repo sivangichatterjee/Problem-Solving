@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0304-range-sum-query-2d-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0706-design-hashmap) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0705-design-hashset) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0706-design-hashmap) |
