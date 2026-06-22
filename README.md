@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 | [1092-shortest-common-supersequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0846-hand-of-straights) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
+| [1189-maximum-number-of-balloons](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1399-count-largest-group](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1399-count-largest-group) |
 ## Divide and Conquer
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1399-count-largest-group) |
 ## Sweep Line
 |  |
