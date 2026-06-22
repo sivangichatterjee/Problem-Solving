@@ -10,12 +10,20 @@ class Solution:
 
         # return len(nums)
 
-        l=1
-        for r in range(1,len(nums)):
-            if nums[r]!=nums[r-1]:
-                nums[l]=nums[r]
-                l+=1
+        # l=1
+        # for r in range(1,len(nums)):
+        #     if nums[r]!=nums[r-1]:
+        #         nums[l]=nums[r]
+        #         l+=1
 
+        # return l
+
+        l,r=1,0
+        for r in range(len(nums)-1):
+            if nums[r]!=nums[r+1]:
+                nums[l]=nums[r+1]
+                l+=1
         return l
+
 
         
