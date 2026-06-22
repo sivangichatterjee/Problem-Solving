@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0767-reorganize-string) |
 | [0830-positions-of-large-groups](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0830-positions-of-large-groups) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
