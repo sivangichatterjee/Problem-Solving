@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0994-rotting-oranges) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1851-minimum-interval-to-include-each-query) |
