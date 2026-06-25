@@ -12,8 +12,7 @@ class Solution:
                 elif target<threesum:
                     r-=1
                 else:
-                    l+=1
-                    r-=1
+                   return threesum
                 if abs(threesum-target)<minsum:
                     minsum=abs(threesum-target)
                     ans=threesum
