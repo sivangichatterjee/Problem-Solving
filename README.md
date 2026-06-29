@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1768-merge-strings-alternately) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/sivangichatterjee/Problem-Solving/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
