@@ -5,8 +5,9 @@ class Solution:
         res=[]
         i,j=0,0
         while i<len(nums1) and j<len(nums2):
-            if nums1[i]==nums2[j] and nums1[i] not in res:
-                res.append(nums1[i])
+            if nums1[i]==nums2[j]:
+                if not res or res[-1]!=nums1[i]:
+                    res.append(nums1[i])
                 i+=1
                 j+=1
             elif nums1[i]<nums2[j]:
