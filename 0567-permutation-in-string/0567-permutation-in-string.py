@@ -11,7 +11,6 @@ class Solution:
             s2count[s2[i]]+=1
 
         l=0
-        keys=set(s1count)|set(s2count)
         matches=sum(1 for c in s1count if s1count[c]==s2count[c])
         for r in range(len(s1),len(s2)):
             if matches==len(s1count):
