@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0705-design-hashset) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [3206-alternating-groups-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3206-alternating-groups-i) |
 ## Linked List
@@ -479,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0767-reorganize-string) |
