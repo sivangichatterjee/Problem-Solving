@@ -1,22 +1,60 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        countP = Counter(p)
-        window = Counter()
-        l = 0
-        ans = []
-
+        count=Counter(p)
+        window=Counter()
+        l=r=0
+        ans=[]
         for r in range(len(s)):
-            window[s[r]] += 1
-            if r - l + 1 > len(p):
-                window[s[l]] -= 1
-                if window[s[l]] == 0:
-                    del window[s[l]]
-                l += 1
-
-            if window == countP:
+            window[s[r]]+=1
+            if r-l+1>len(p):
+                window[s[l]]-=1
+                l+=1
+            if window==count:
                 ans.append(l)
-
         return ans
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # countP = Counter(p)
+        # window = Counter()
+        # l = 0
+        # ans = []
+
+        # for r in range(len(s)):
+        #     window[s[r]] += 1
+        #     if r - l + 1 > len(p):
+        #         window[s[l]] -= 1
+        #         if window[s[l]] == 0:
+        #             del window[s[l]]
+        #         l += 1
+
+        #     if window == countP:
+        #         ans.append(l)
+
+        # return ans
         # l=0
         # ans=[]
         # while l<len(s):
