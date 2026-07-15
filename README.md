@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0846-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sivangichatterjee/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
