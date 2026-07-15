@@ -11,9 +11,9 @@ class Solution:
                 if nums[l]==1:
                     c-=1
                 l+=1 
-            if r-l+1-c<=1:          
+            if r-l+1-c==1:          
                 maxlen=max(c,maxlen)
 
-        return maxlen if c!=len(nums) else maxlen-1
+        return maxlen if c!=len(nums) else len(nums)-1
 
         
