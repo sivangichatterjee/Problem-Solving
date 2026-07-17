@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1652-defuse-the-bomb) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1652-defuse-the-bomb) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sivangichatterjee/Problem-Solving/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sivangichatterjee/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3206-alternating-groups-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3206-alternating-groups-i) |
