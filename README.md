@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
