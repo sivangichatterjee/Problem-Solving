@@ -1,11 +1,11 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         seen=set()
-
+        sum=rem=0
         while n!=1 and n not in seen:
             seen.add(n)
             sum=0
-            while(n>0):
+            while n>0:
                 rem=n%10
                 sum+=rem**2
                 n=n//10
@@ -14,4 +14,5 @@ class Solution:
 
         return n==1
 
-  
+
+        
