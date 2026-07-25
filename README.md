@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0739-daily-temperatures) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
