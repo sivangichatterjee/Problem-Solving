@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sivangichatterjee/Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
