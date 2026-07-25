@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0705-design-hashset) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0853-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/1929-concatenation-of-array) |
 ## Shortest Path
 |  |
