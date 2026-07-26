@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0682-baseball-game) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
+| [0622-design-circular-queue](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0706-design-hashmap) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0706-design-hashmap) |
 ## Recursion
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
