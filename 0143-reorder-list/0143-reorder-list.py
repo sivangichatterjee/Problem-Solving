@@ -18,8 +18,9 @@ class Solution:
         while i<j:
             arr[i].next=arr[j]
             i+=1
-            arr[j].next=arr[i]
-            j-=1
+            if i<j:
+                arr[j].next=arr[i]
+                j-=1
         arr[i].next=None
             
         
