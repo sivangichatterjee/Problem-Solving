@@ -1,27 +1,21 @@
 class Solution:
     def reorganizeString(self, s: str) -> str:
         count=Counter(s)
-        res=""
-        # count=defaultdict(int)
-        # for i in range(len(s)):
-        #     count[s[i]]+=1
-
+        #no char may exceed (n+1)//2
+        if max(count.values())>(len(s)+1)//2:
+            return ""
         maxHeap=[[-cnt, char] for char, cnt in count.items()]
         heapq.heapify(maxHeap)
+
         prev=None
-        while maxHeap or prev:
-            if prev and not maxHeap:
-                return ""
+        res=[]
 
-            cnt, char= heapq.heappop(maxHeap) 
-            res+=char   
-            cnt+=1 #since cnt is negative and we are decreasing value 
-
-            if prev:
+        while maxHeap:
+            cnt,char=heapq.heappop(maxHeap)
+            res.append(char)
+            if prev and prev[0]<0:  # since maxheap values are negative, it needs to be <0
                 heapq.heappush(maxHeap, prev)
-                prev=None
-            
-            if cnt!=0:
-                prev=[cnt,char]
+            prev=[cnt+1,char]
 
-        return res
+        return "".join(res)
+        
