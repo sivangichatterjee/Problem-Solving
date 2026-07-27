@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0207-course-schedule) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
