@@ -803,4 +803,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
