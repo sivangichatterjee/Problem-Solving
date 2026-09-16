@@ -1,9 +1,8 @@
 class Solution:
-    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        n=len(intervals)
-        intervals.sort(key=lambda i: i[0])
-        res=[intervals[0]]
-
+    def merge(self, intervals: list[list[int]]) -> list[list[int]]:
+        res=[]
+        intervals.sort(key=lambda x:x[0])
+        res.append(intervals[0])
         for start, end in intervals[1:]:
             if start<=res[-1][1]:
                 res[-1][1]=max(res[-1][1],end)
@@ -11,5 +10,4 @@ class Solution:
                 res.append([start,end])
 
         return res
-            
         
