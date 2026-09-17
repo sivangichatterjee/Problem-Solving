@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0435-non-overlapping-intervals) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0535-encode-and-decode-tinyurl) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0399-evaluate-division](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0547-number-of-provinces) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0695-max-area-of-island) |
@@ -705,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0695-max-area-of-island) |
 ## Graph Theory
@@ -713,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0743-network-delay-time) |
 ## Topological Sort
@@ -764,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0743-network-delay-time) |
 ## Memoization
 |  |
@@ -814,4 +821,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0207-course-schedule) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
