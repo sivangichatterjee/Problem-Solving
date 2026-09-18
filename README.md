@@ -833,4 +833,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sivangichatterjee/Problem-Solving/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
